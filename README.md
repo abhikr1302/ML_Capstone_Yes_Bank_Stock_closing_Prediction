@@ -37,9 +37,9 @@ II. Data Manipulation: Since Dataset contains int64, float64, datetime64 type of
 
 III. EDA and DATA Visualization 
 
-i. Year-Wise Study of Open and Close- This Data is between June 2005 to Nov 2020. Initially it opened around 20 till the peak value upto around 370. Then we can see after the fraud case in 2018 involving Rana Kapoor the Open value drastically drops with a small jump in 2019 and then further drops. Closing Value almost shadows the Open value.
+1. Year-Wise Study of Open and Close- This Data is between June 2005 to Nov 2020. Initially it opened around 20 till the peak value upto around 370. Then we can see after the fraud case in 2018 involving Rana Kapoor the Open value drastically drops with a small jump in 2019 and then further drops. Closing Value almost shadows the Open value.
 
-ii. Year-Wise Study of High and Low- This study follows the similar trend as the above graph. There is growth till 2018 and then the fraud case affects the growth thus dropping in both High and low price.
+2. Year-Wise Study of High and Low- This study follows the similar trend as the above graph. There is growth till 2018 and then the fraud case affects the growth thus dropping in both High and low price.
 
 
 IV. Data Distribution: A Study of all possible values for a variable and also the relative frequency. It shows that the mean and median have significant differences indicating the data is not evenly distributed. Data is negatively skewed.
@@ -102,5 +102,5 @@ Lasso regression
 0.820001
 0.803638
 
-
+# Conclusion: -
 From the above study we can say that Linear regression has the best R2 and Adjusted R2 score hence Linear Regression is the best model.
