@@ -79,8 +79,9 @@ This Data is between June 2005 to Nov 2020. Initially it opened around 20 till t
 
 2. Year-Wise Study of High and Low- 
 
-This study follows the similar trend as the above graph. There is growth till 2018 and then the fraud case affects the growth thus dropping in both High and low price.
 ![download (2)](https://user-images.githubusercontent.com/110467640/198999364-a174d868-fb33-42f2-b8f6-391bb8187bd1.png)
+
+This study follows the similar trend as the above graph. There is growth till 2018 and then the fraud case affects the growth thus dropping in both High and low price.
 
 IV. Data Distribution: A Study of all possible values for a variable and also the relative frequency. 
 
