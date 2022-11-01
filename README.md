@@ -153,9 +153,9 @@ X. Matrix Comparison
 | Model_Name | MSE | MAE | RMSE | R2 | Adjusted R2 |
 |----|----|----|-----|----|----|
 | Linear Regression | 0.031583 | 0.151285 | 0.177715 | 0.822570 | 0.806440 |
-| Ridge Regression | 0.031685 | 0.151477 | 0.178001 | 0.821997 | 0.805815 |
-| Elastic Net regression | 0.031957 | 0.152095 | 0.178764 | 0.820468 | 0.804147 |
-| Lasso regression | 0.032040 | 0.151477 | 0.178996 | 0.820001 | 0.803638 |
+| Elastic Net Regression | 0.031589 | 0.152095 | 0.178764 | 0.820468 | 0.804147 |
+| Lasso regression | 0.032040 | 0.152317 | 0.178996 | 0.820001 | 0.803638 |
+| Ridge regression | 0.032679 | 0.153352 | 0.180773 | 0.816411 | 0.799721 |
 
 # Conclusion: -
 
