@@ -37,41 +37,6 @@ II. Data Manipulation: Since Dataset contains int64, float64, datetime64 type of
 
 III. EDA and DATA Visualization 
 
-Fluctuations in stock prices are notoriously difficult to predict. For decades, economists have created complicated mathematical models that ultimately fail to describe share price movements. With the evolved technology we are now using Machine Learning algorithms to study the pattern and predict.
-
-Yes Bank is an Indian bank headquartered in Mumbai, India and was founded by Rana Kapoor and Ashok Kapoor in 2004. In June 2005 it went public with the issue price of ₹35.  In September 2018, the then appointed CEO of Yes Bank, Rana Kapoor was alleged in a fraud case thus he was ordered by Kapoor to step down from his CEO position in January 2019. 
-		   
-We are here trying to study the stock price pattern and did it get affected by this fraud case using our knowledge about Python and ML algorithms.
-
-# Problem Statement: -
-
-We have been given a dataset of 185 entries with 5 features which gives a study about this stock Pattern over 15 years. We will then identify the independent and the dependent features to conduct our study. Then using EDA and ML we will study the below: -
-
-1. Prediction of Yes bank Stock close Price
-2. Effect of the Rana Kapoor fraud case on the stock price
-3. Performing Regression Analysis using Multiple models to predict the Yes Bank Stock Close Price and compare the best fit model.
-
-# DATASET:
-
-The compact dataset given to us has monthly stock prices of the bank since its commenced and the features are closing, starting, highest and lowest prices of every month. The objective is to predict the dependent feature i.e stock’s closing price of the month.
-Dataset contains following features--
-
-1. Date: contains the month and year of investment. 
-2. Open: the price at which a security first trades when an exchange opens for the day.
-3. Close: the last price at which a stock trades during a regular trading session.
-4. High: a data point on a stock chart that shows the highest value that a stock reached during a trading day
-5. Low:  the lowest price at which a specific stock trades over the course of a trading day.
-
-# Workflow: -
-
-The solution code is divided into the following sections:
-
-I. Data Study: First we will import multiple libraries required to perform the study and then load the CSV file. Later perform some operations to understand and analyze the data.
-
-II. Data Manipulation: Since Dataset contains int64, float64, datetime64 type of data and no Null Values in the Dataset cleaning is not needed.
-
-III. EDA and DATA Visualization 
-
 1. Year-Wise Study of Open and Close-
 ![download (1)](https://user-images.githubusercontent.com/110467640/198999293-21c580f3-e603-444d-b91b-c3265ec7a074.png)
 
